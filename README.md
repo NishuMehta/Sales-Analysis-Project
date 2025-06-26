@@ -25,12 +25,10 @@ This project analyzes sales performance using **Excel**, **Python**, and **Table
 
 ## 🔍 Key Insights
 
-- 💰 **Top-performing product:** 
-- 🛒 **Most profitable region:**
-- 📉 **Sales drop-off in:** 
+- 💰 **Top-performing product** 
+- 🛒 **Most profitable region**
+- 📉 **Sales drop-off in** 
 - 📊 **Sales Trend**
-
-> Replace these with actual values from your notebook or dashboard if possible.
 
 ---
 
