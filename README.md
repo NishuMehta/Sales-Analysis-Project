@@ -1,2 +1,67 @@
-# Sales-Analysis-Project
-This project aims to analyze sales performance using Excel, Python, Tableau. The goal is to extract insights from sales data, identify trends, and visualize key performance indicators (KPIs).
+# 📊 Sales Analysis Project
+
+This project analyzes sales performance using **Excel**, **Python**, and **Tableau** to extract business insights, understand sales trends, and visualize key performance indicators (KPIs).
+
+---
+
+## 📁 Dataset Overview
+
+- Files: `sales-data.csv`, `sales-data-cleaned.xlsx`, `sales_eda.csv`
+- Rows: ~10,000+, Columns: Region, Product, Date, Sales, Quantity, Profit, etc.
+- Cleaned & transformed in Jupyter Notebook
+
+---
+
+## 🧰 Tools & Technologies
+
+| Tool               | Usage                                  |
+|--------------------|----------------------------------------|
+| Python             | Data cleaning, EDA (`sales-eda.ipynb`) |
+| Pandas, Matplotlib | EDA, plotting                          |
+| Excel              | Preprocessing, quick metrics           |
+| Tableau            | Final interactive dashboard             |
+
+---
+
+## 🔍 Key Insights
+
+- 💰 **Top-performing product:** [e.g., Phones]  
+- 🛒 **Most profitable region:** [e.g., West]  
+- 📉 **Sales drop-off in:** [e.g., Q4 or October]  
+- 📊 **Sales-to-Profit ratio insights across categories**
+
+> Replace these with actual values from your notebook or dashboard if possible.
+
+---
+
+## 📷 Visualizations
+
+### Tableau Dashboard:
+![Dashboard](assets/Dashboard.png)
+
+Includes:
+- Regional performance overview
+- Product category breakdown
+- Profitability by month
+- Trend lines for key KPIs
+
+---
+
+## 📌 File Structure
+
+├── sales-data.csv
+├── sales-data-cleaned.xlsx
+├── sales_eda.csv
+├── sales-eda.ipynb
+├── Sales-Analysis-Dashboard.twb
+├── assets/
+│ └── Dashboard.png
+
+---
+
+## 🧠 What I Learned
+
+- Cleaning large transactional datasets
+- Aggregating business KPIs with Python and SQL
+- Designing dashboards for storytelling and decision-making
+- Structuring a professional GitHub project
