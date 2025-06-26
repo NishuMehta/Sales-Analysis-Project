@@ -55,7 +55,7 @@ Includes:
 ├── sales-eda.ipynb  
 ├── Sales-Analysis-Dashboard.twb  
 ├── assets/  
-│ └── Dashboard.png  
+  └── Dashboard.png  
 
 ---
 
