@@ -19,16 +19,16 @@ This project analyzes sales performance using **Excel**, **Python**, and **Table
 | Python             | Data cleaning, EDA (`sales-eda.ipynb`) |
 | Pandas, Matplotlib | EDA, plotting                          |
 | Excel              | Preprocessing, quick metrics           |
-| Tableau            | Final interactive dashboard             |
+| Tableau            | Final interactive dashboard            |
 
 ---
 
 ## 🔍 Key Insights
 
-- 💰 **Top-performing product:** [e.g., Phones]  
-- 🛒 **Most profitable region:** [e.g., West]  
-- 📉 **Sales drop-off in:** [e.g., Q4 or October]  
-- 📊 **Sales-to-Profit ratio insights across categories**
+- 💰 **Top-performing product:** 
+- 🛒 **Most profitable region:**
+- 📉 **Sales drop-off in:** 
+- 📊 **Sales Trend**
 
 > Replace these with actual values from your notebook or dashboard if possible.
 
@@ -49,13 +49,13 @@ Includes:
 
 ## 📌 File Structure
 
-├── sales-data.csv
-├── sales-data-cleaned.xlsx
-├── sales_eda.csv
-├── sales-eda.ipynb
-├── Sales-Analysis-Dashboard.twb
-├── assets/
-│ └── Dashboard.png
+├── sales-data.csv  
+├── sales-data-cleaned.xlsx    
+├── sales_eda.csv  
+├── sales-eda.ipynb  
+├── Sales-Analysis-Dashboard.twb  
+├── assets/  
+│ └── Dashboard.png  
 
 ---
 
