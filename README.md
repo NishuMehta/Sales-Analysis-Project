@@ -35,7 +35,7 @@ This project analyzes sales performance using **Excel**, **Python**, and **Table
 ## Visualizations
 
 ### Tableau Dashboard:
-![Dashboard](assets/Dashboard.png)
+![Dashboard](dashboard/Dashboard.png)
 
 Includes:
 - Regional performance overview
