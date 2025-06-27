@@ -1,10 +1,10 @@
-# 📊 Sales Analysis Project
+# Sales Analysis Project
 
 This project analyzes sales performance using **Excel**, **Python**, and **Tableau** to extract business insights, understand sales trends, and visualize key performance indicators (KPIs).
 
 ---
 
-## 📁 Dataset Overview
+## Dataset Overview
 
 - Files: `sales-data.csv`, `sales-data-cleaned.xlsx`, `sales_eda.csv`
 - Rows: ~10,000+, Columns: Region, Product, Date, Sales, Quantity, Profit, etc.
@@ -12,7 +12,7 @@ This project analyzes sales performance using **Excel**, **Python**, and **Table
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 | Tool               | Usage                                  |
 |--------------------|----------------------------------------|
@@ -23,16 +23,16 @@ This project analyzes sales performance using **Excel**, **Python**, and **Table
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
-- 💰 **Top-performing product** 
-- 🛒 **Most profitable region**
-- 📉 **Sales drop-off in** 
-- 📊 **Sales Trend**
+-  **Top-performing product** 
+-  **Most profitable region**
+-  **Sales drop-off in** 
+-  **Sales Trend**
 
 ---
 
-## 📷 Visualizations
+## Visualizations
 
 ### Tableau Dashboard:
 ![Dashboard](assets/Dashboard.png)
@@ -45,21 +45,33 @@ Includes:
 
 ---
 
-## 📌 File Structure
+## File Structure
 
-├── sales-data.csv  
-├── sales-data-cleaned.xlsx    
-├── sales_eda.csv  
-├── sales-eda.ipynb  
-├── Sales-Analysis-Dashboard.twb  
-├── assets/  
-  └── Dashboard.png  
+Sales-Analysis-Project/
+│
+├── data/
+│ ├── sales-data-cleaned.csv
+│ └── sales-data.csv
+│ └── sales_eda.csv
+│
+├── notebooks/
+│ └── analysis.ipynb
+│
+├── dashboard/
+│ ├── Dashboard.png
+│ └── Dashboard.twb
+│
+└── README.md 
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - Cleaning large transactional datasets
 - Aggregating business KPIs with Python and SQL
 - Designing dashboards for storytelling and decision-making
 - Structuring a professional GitHub project
+
+---
+
+*This project is part of my Data Analyst Portfolio.*
